@@ -10,6 +10,7 @@ import javafx.event.EventHandler;
 import javafx.scene.control.ListView;
 import javafx.scene.control.TextField;
 import simplethreelayer.domain.StudentIndex;
+import simplethreelayer.simplethreelayer.interfaces.IStudentIndex;
 
 /**
  *
@@ -17,12 +18,12 @@ import simplethreelayer.domain.StudentIndex;
  */
 class ButtonEventHandler implements EventHandler<ActionEvent> {
 
-    private final StudentIndex sdb;
+    private final IStudentIndex sdb;
     private final TextField txtAge;
     private final TextField txtName;
 
 
-    ButtonEventHandler(StudentIndex sdb, TextField txtName, TextField txtAge) {
+    ButtonEventHandler(IStudentIndex sdb, TextField txtName, TextField txtAge) {
         this.sdb = sdb;
         this.txtName = txtName;
         this.txtAge = txtAge;

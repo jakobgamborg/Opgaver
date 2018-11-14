@@ -15,6 +15,7 @@ import javafx.scene.layout.FlowPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import simplethreelayer.domain.StudentIndex;
+import simplethreelayer.simplethreelayer.interfaces.IStudentIndex;
 
 /**
  *

@@ -10,15 +10,17 @@ import java.util.List;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import simplethreelayer.dataaccess.DataAccess;
+import simplethreelayer.simplethreelayer.interfaces.IDataAccess;
+import simplethreelayer.simplethreelayer.interfaces.IStudentIndex;
 
 /**
  *
  * @author Anders
  */
-public class StudentIndex {
+public class StudentIndex implements IStudentIndex {
 
     private ObservableList<Student> students;
-    private DataAccess da;
+    private IDataAccess da;
 
     public StudentIndex() {
         da = new DataAccess("students.txt");

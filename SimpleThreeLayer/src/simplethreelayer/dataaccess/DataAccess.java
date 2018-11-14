@@ -5,6 +5,8 @@
  */
 package simplethreelayer.dataaccess;
 
+import simplethreelayer.simplethreelayer.interfaces.IDataAccess;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
@@ -16,7 +18,7 @@ import java.util.Scanner;
  *
  * @author Anders
  */
-public class DataAccess {
+public class DataAccess implements IDataAccess {
 
     private final String path;
     public DataAccess(String path)
