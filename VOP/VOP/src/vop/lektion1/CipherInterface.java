@@ -1,11 +1,5 @@
 package vop.lektion1;
 
-/**
- *
- * @author erso
- * 
- * Udleveret interface til opgave 2, VOP eksamen 10 juni 2016
- */
 public interface CipherInterface {
     
 
