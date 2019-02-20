@@ -13,7 +13,7 @@ public abstract class AbstractCipher implements CipherInterface {
     protected int findCharIndex (char ch ) {
         int charLength = ALPHABETH.length;
         int returnInt = -1;
-        for(int i = 0; i< charLength; i++) {
+        for(int i = 0; i< charLength-1; i++) {
             char charInAlphabeth = ALPHABETH[i];
                if (charInAlphabeth == ch){
                    returnInt = i;
