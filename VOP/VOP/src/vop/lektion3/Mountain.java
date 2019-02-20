@@ -50,7 +50,7 @@ public class Mountain implements Comparable<Mountain> {
 
     @Override
     public String toString() {
-    return name + " h=" + height + ", pro=" + prominence + ", lat=" + latitude + ", long=" + longitude + ", ran=" + range + "\n";
+    return name + " h=" + height + ", pro=" + prominence + ", lat=" + latitude + ", long=" + longitude + ", ran=" + range;
     }
     
 
