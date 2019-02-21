@@ -6,7 +6,7 @@ public class CeasarCipher extends AbstractCipher implements CipherInterface {
     private int rotFactor;
 
     public CeasarCipher(int rotFactor) {
-        if (rotFactor < 0 && rotFactor < ALPHABETH.length) {
+        if (rotFactor > 0 && rotFactor < ALPHABETH.length) {
             this.rotFactor = rotFactor;
         } else {
             rotFactor = 0;
@@ -16,10 +16,17 @@ public class CeasarCipher extends AbstractCipher implements CipherInterface {
     @Override
     public String encrypt(String original) {
         String encryptedMessage = " ";
-        for (int i = 0; i > original.length(); i++) {
+        for (int i = 0; i < original.length(); i++) {
             char ca = original.charAt(i);
             int charIndex = findCharIndex(ca);
+            if( charIndex == -1){
+                encryptedMessage += ca;
+                continue;
+            }
             charIndex += rotFactor;
+
+
+
 
             encryptedMessage += ALPHABETH[charIndex];
         }
@@ -31,9 +38,13 @@ public class CeasarCipher extends AbstractCipher implements CipherInterface {
     public String decrypt(String encrypted) {
 
         String original = " ";
-        for (int i = 0; i > encrypted.length(); i++) {
+        for (int i = 0; i < encrypted.length(); i++) {
             char ca = encrypted.charAt(i);
             int charIndex = findCharIndex(ca);
+            if (charIndex == -1){
+                original += ca;
+                continue;
+            }
             charIndex -= rotFactor;
             original += ALPHABETH[charIndex];
         }

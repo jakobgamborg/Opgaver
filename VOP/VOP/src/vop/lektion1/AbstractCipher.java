@@ -5,15 +5,19 @@
  */
 package vop.lektion1;
 
+import jdk.nashorn.internal.ir.BreakNode;
+
 /**
  *
  * @author welov
  */
 public abstract class AbstractCipher implements CipherInterface {
     protected int findCharIndex (char ch ) {
-        int charLength = ALPHABETH.length;
         int returnInt = -1;
-        for(int i = 0; i< charLength; i++) {
+        if(Character.isLetter(ch) == false) {
+           return returnInt;
+        }
+        for(int i = 0; i< ALPHABETH.length; i++) {
             char charInAlphabeth = ALPHABETH[i];
                if (charInAlphabeth == ch){
                    returnInt = i;

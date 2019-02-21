@@ -5,14 +5,14 @@ public class CipherDriver {
     public static void main(String[] args) {
         CipherInterface cipher;
 
-        String message = "Her har vi en Meddelelse, som er hemmelig!";
+        String message = "Hej s";
         System.out.println("Original: \n" + message);
 
      
         cipher = new AtbashCipher();
         String enc = cipher.encrypt(message);
         System.out.println("Atbash: \n" + enc);
-        System.out.println(cipher.decrypt(enc));
+        System.out.println("Decrpyted message = " + cipher.decrypt(enc));
 
        
         cipher = new CeasarCipher(13);
