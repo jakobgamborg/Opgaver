@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a997511-f9c5-4aed-b708-5c0ede34a84d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VOP/src/vop/lektion1/AbstractCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/VOP/src/vop/lektion1/AbstractCipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VOP/src/vop/lektion1/AtbashCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/VOP/src/vop/lektion1/AtbashCipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VOP/src/vop/lektion1/CeasarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/VOP/src/vop/lektion1/CeasarCipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VOP/src/vop/lektion1/CipherDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/VOP/src/vop/lektion1/CipherDriver.java" afterDir="false" />
+    <list default="true" id="3eb4d83d-1cca-4c41-9a9e-3cebf342b75d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/VOP/nbproject/jfx-impl_backup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VOP/src/vop/lektion3/MountainRangeComperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/VOP.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOP/nbproject/jfx-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VOP/nbproject/jfx-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOP/src/vop/FranskeBjerge.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOP/src/vop/lektion3/Mountain.java" beforeDir="false" afterPath="$PROJECT_DIR$/VOP/src/vop/lektion3/Mountain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOP/src/vop/lektion3/mountainSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/VOP/src/vop/lektion3/mountainSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VOP/vop/lektion1/CeasarCipher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VOP/vop/lektion1/CeasarCipher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VOP/vop/lektion1/CipherInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VOP/vop/lektion1/CipherInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VOP/vop/lektion1/FXMLDocumentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VOP/vop/lektion1/FXMLDocumentController.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,52 +24,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion1/CipherDriver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion1/CeasarCipher.java">
+        <entry file="file://$PROJECT_DIR$/VOP/src/TA1Test/UrbanPopulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="299">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion1/AtbashCipher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/VOP/src/ByBefolkning.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion1/CipherInterface.java">
+        <entry file="file://$PROJECT_DIR$/VOP/src/TA1Test/UrbanPopulationStatistics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion1/AbstractCipher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="264">
+              <caret line="36" column="67" lean-forward="true" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -70,28 +69,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/VOP/src/vop/lektion1/AbstractCipher.java" />
-        <option value="$PROJECT_DIR$/VOP/src/vop/lektion1/AtbashCipher.java" />
-        <option value="$PROJECT_DIR$/VOP/src/vop/lektion1/CipherDriver.java" />
-        <option value="$PROJECT_DIR$/VOP/src/vop/lektion1/CeasarCipher.java" />
+        <option value="$PROJECT_DIR$/VOP/src/vop/lektion3/Mountain.java" />
+        <option value="$PROJECT_DIR$/VOP/src/vop/lektion3/MountainRangeComperator.java" />
+        <option value="$PROJECT_DIR$/VOP/src/vop/TA.1 test/urban_population_exercise/UrbanPopulationStatistics.java" />
+        <option value="$PROJECT_DIR$/VOP/src/vop/TA.1 test/urban_population_exercise/UrbanPopulation.java" />
+        <option value="$PROJECT_DIR$/VOP/src/vop/lektion3/mountainSet.java" />
+        <option value="$PROJECT_DIR$/VOP/src/TA1Test/UrbanPopulationStatistics.java" />
+        <option value="$PROJECT_DIR$/VOP/src/TA1Test/UrbanPopulation.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,22 +107,30 @@
               <item name="VOP" type="b2602c69:ProjectViewProjectNode" />
               <item name="VOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lektion1" type="462c0819:PsiDirectoryNode" />
+              <item name="TA1Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549998071545" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551881308170" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gamborg\Documents\GitHub\Opgaver\VOP\VOP\src" />
+      <recent name="C:\Users\Gamborg\Documents\GitHub\Opgaver\VOP\VOP\src\vop\TA.1 test\urban_population_exercise" />
+      <recent name="C:\Users\Gamborg\Documents\GitHub\Opgaver\VOP\VOP\src\vop\lektion3" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -137,13 +144,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="CipherDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vop.lektion1.CipherDriver" />
+  <component name="RunManager" selected="Application.UrbanPopulationStatistics">
+    <configuration name="Mountain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vop.lektion3.Mountain" />
       <module name="VOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vop.lektion1.*" />
+          <option name="PATTERN" value="vop.lektion3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UrbanPopulationStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TA1Test.UrbanPopulationStatistics" />
+      <module name="VOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TA1Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mountainSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vop.lektion3.mountainSet" />
+      <module name="VOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vop.lektion3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,7 +186,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CipherDriver" />
+        <item itemvalue="Application.UrbanPopulationStatistics" />
+        <item itemvalue="Application.mountainSet" />
+        <item itemvalue="Application.Mountain" />
       </list>
     </recent_temporary>
   </component>
@@ -162,53 +197,52 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4a997511-f9c5-4aed-b708-5c0ede34a84d" name="Default Changelist" comment="" />
-      <created>1549990877702</created>
+      <changelist id="3eb4d83d-1cca-4c41-9a9e-3cebf342b75d" name="Default Changelist" comment="" />
+      <created>1551286048647</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549990877702</updated>
-      <workItem from="1549990878890" duration="4233000" />
-      <workItem from="1549998156734" duration="110000" />
+      <updated>1551286048647</updated>
+      <workItem from="1551286049796" duration="124000" />
+      <workItem from="1551798041531" duration="2507000" />
+      <workItem from="1551878834374" duration="2485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4343000" />
+    <option name="totallyTimeSpent" value="5116000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22985074" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Duplicate detector" order="7" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32998884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,82 +251,96 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/VOP/src/vop/lektion1/CeasarCipher.java</url>
-          <line>16</line>
-          <properties class="vop.lektion1.CeasarCipher" method="encrypt">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="9" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/VOP/src/vop/lektion3/mountainSet.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/VOP/src/TA1Test/UrbanPopulationStatistics.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="ALPHABETH" language="JAVA" />
+        <watch expression="line" />
       </configuration>
     </watches-manager>
   </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="watch">
-      <expression>
-        <expression-string>ALPHABETH</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion1/CipherDriver.java">
+    <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion3/FranskeBjerge.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="286">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion1/AtbashCipher.java">
+    <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion3/Mountain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        <state relative-caret-position="813">
+          <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion1/CipherInterface.java">
+    <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion3/MountainRangeComperator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="207">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion1/AbstractCipher.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/io/File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="-473">
+          <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion1/CeasarCipher.java">
+    <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion3/mountainSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        <state relative-caret-position="310">
+          <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/VOP/src/ByBefolkning.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOP/src/TA1Test/UrbanPopulationStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="36" column="67" lean-forward="true" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOP/src/TA1Test/UrbanPopulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

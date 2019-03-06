@@ -50,7 +50,7 @@ public class Mountain implements Comparable<Mountain> {
 
     @Override
     public String toString() {
-    return name + " h=" + height + ", pro=" + prominence + ", lat=" + latitude + ", long=" + longitude + ", ran=" + range;
+    return name + " h=" + height + ", pro=" + prominence + ", lat=" + latitude + ", long=" + longitude + ", ran=" + range + "\n";
     }
     
 
@@ -59,7 +59,7 @@ public class Mountain implements Comparable<Mountain> {
      if (o instanceof Mountain)
      {
          Mountain m = (Mountain)o;
-         return (this.prominence.compareTo(m.prominence));
+         return (m.prominence.compareTo(this.prominence));
      }
      else 
          return -1;
