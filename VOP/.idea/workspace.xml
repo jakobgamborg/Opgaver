@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eb4d83d-1cca-4c41-9a9e-3cebf342b75d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/VOP/nbproject/jfx-impl_backup.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VOP/src/vop/lektion3/MountainRangeComperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/VOP.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/VOP/src/vop/lektion4/NummerPlade.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VOP/nbproject/jfx-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VOP/nbproject/jfx-impl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VOP/src/vop/FranskeBjerge.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VOP/src/vop/lektion3/Mountain.java" beforeDir="false" afterPath="$PROJECT_DIR$/VOP/src/vop/lektion3/Mountain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VOP/src/vop/lektion3/mountainSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/VOP/src/vop/lektion3/mountainSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VOP/vop/lektion1/CeasarCipher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VOP/vop/lektion1/CeasarCipher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VOP/vop/lektion1/CipherInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VOP/vop/lektion1/CipherInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VOP/vop/lektion1/FXMLDocumentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VOP/vop/lektion1/FXMLDocumentController.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,15 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VOP/src/TA1Test/UrbanPopulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding>
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="468">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion4/NummerPlade.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="51" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -45,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VOP/src/TA1Test/UrbanPopulationStatistics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="36" column="67" lean-forward="true" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
+            <state relative-caret-position="806">
+              <caret line="36" column="67" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,6 +56,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -76,6 +73,7 @@
         <option value="$PROJECT_DIR$/VOP/src/vop/lektion3/mountainSet.java" />
         <option value="$PROJECT_DIR$/VOP/src/TA1Test/UrbanPopulationStatistics.java" />
         <option value="$PROJECT_DIR$/VOP/src/TA1Test/UrbanPopulation.java" />
+        <option value="$PROJECT_DIR$/VOP/src/vop/lektion4/NummerPlade.fxml" />
       </list>
     </option>
   </component>
@@ -107,7 +105,7 @@
               <item name="VOP" type="b2602c69:ProjectViewProjectNode" />
               <item name="VOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TA1Test" type="462c0819:PsiDirectoryNode" />
+              <item name="vop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -120,10 +118,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551881308170" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552461892880" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -205,16 +204,18 @@
       <workItem from="1551286049796" duration="124000" />
       <workItem from="1551798041531" duration="2507000" />
       <workItem from="1551878834374" duration="2485000" />
+      <workItem from="1552461563452" duration="30000" />
+      <workItem from="1552461644250" duration="408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5116000" />
+    <option name="totallyTimeSpent" value="5554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -275,17 +276,7 @@
     <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion3/FranskeBjerge.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java" />
     <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion3/Mountain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="813">
@@ -304,17 +295,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-473">
-          <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/io/File.java" />
     <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion3/mountainSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOP/src/TA1Test/UrbanPopulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -323,22 +315,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/VOP/src/TA1Test/UrbanPopulationStatistics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="36" column="67" lean-forward="true" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
+        <state relative-caret-position="806">
+          <caret line="36" column="67" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VOP/src/TA1Test/UrbanPopulation.java">
+    <entry file="file://$PROJECT_DIR$/VOP/src/vop/lektion4/NummerPlade.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="260">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="51" />
         </state>
       </provider>
     </entry>
