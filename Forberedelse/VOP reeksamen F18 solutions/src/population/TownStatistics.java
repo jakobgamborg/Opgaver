@@ -14,13 +14,16 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * Udleveret kodeskelet til VOP F18 re-eksamen opg 2b
+ *
  * @author erso
  */
 public class TownStatistics {
 
     private List<DanishTown> townList;
 
+    public TownStatistics() {
+        this.townList = new ArrayList<>();
+    }
 
     @Override
     public String toString() {
@@ -29,12 +32,34 @@ public class TownStatistics {
     }
 
     public void sort() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        Collections.sort(townList);
         
     }
 
     public void readFile(String fileName) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        townList.clear();
+        Scanner scan = null;
+
+        try {
+            scan = new Scanner(new File(fileName));
+
+            String[] items;
+            int pop12;
+            int pop18;
+            while (scan.hasNextLine()) {
+                items = scan.nextLine().split("/");
+                System.out.println(Arrays.toString(items));
+                pop12 = Integer.parseInt(items[2]);
+                pop18 = Integer.parseInt(items[3]);
+                townList.add(new DanishTown(items[1], pop12, pop18));
+            }
+        } catch (FileNotFoundException ex) {
+            ex.printStackTrace();
+        } finally {
+            if (scan != null) {
+                scan.close();
+            }
+        }
 
     }
     
