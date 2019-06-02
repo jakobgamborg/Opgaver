@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac078eff-3dd1-40c9-a204-7e58b5696384" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nyt tekstdokument.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/SimpleThreeLayer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/nbproject/configs/Run_as_WebStart.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/nbproject/configs/Run_in_Browser.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/nbproject/jfx-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/nbproject/private/configs/Run_as_WebStart.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/nbproject/private/configs/Run_in_Browser.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/SimpleThreeLayer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/nbproject/configs/Run_as_WebStart.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/nbproject/configs/Run_in_Browser.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/nbproject/jfx-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/nbproject/private/configs/Run_as_WebStart.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/nbproject/private/configs/Run_in_Browser.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/out/production/SimpleThreeLayer/students.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/src/simplethreelayer/dataaccess/DataAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/src/simplethreelayer/domain/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/src/simplethreelayer/domain/StudentIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/src/simplethreelayer/presentation/ButtonEventHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/src/simplethreelayer/presentation/StudentAdministrationUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/src/simplethreelayer/simplethreelayer/interfaces/IDataAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/src/simplethreelayer/simplethreelayer/interfaces/IStudentIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleThreeLayer/students.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snow White.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 05 SerialIO exercise/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 05 SerialIO exercise/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 05 SerialIO exercise/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 05 SerialIO exercise/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 05 SerialIO exercise/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 05 SerialIO exercise/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 05 SerialIO exercise/src/saviich_10_9/Species.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 05 SerialIO exercise/src/savitch_10_10_append_error/WriteSpeciesFileAppend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/Lesson 06 OneArmedBandit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/fruits0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/fruits1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/fruits2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/fruits3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/fruits4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/fruits5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/fruits6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/fruits7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/fruits8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/fruits9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/nbproject/configs/Run_as_WebStart.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/nbproject/configs/Run_in_Browser.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/nbproject/jfx-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/out/production/Lesson 06 OneArmedBandit/banditten/Banditten.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/out/production/Lesson 06 OneArmedBandit/banditten/FXMLDocument.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/out/production/Lesson 06 OneArmedBandit/banditten/FXMLDocumentController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/out/production/Lesson 06 OneArmedBandit/banditten/FXMLDocumentController$BanditRunnable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/out/production/Lesson 06 OneArmedBandit/banditten/FXMLDocumentController$BanditRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/out/production/Lesson 06 OneArmedBandit/banditten/FXMLDocumentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/src/banditten/Banditten.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/src/banditten/FXMLDocument.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Lesson 06 OneArmedBandit/src/banditten/FXMLDocumentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/Snow White.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/Lesson 05 SerialIO exercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/out/production/Lesson 05 SerialIO exercise/saviich_10_9/Species.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/out/production/Lesson 05 SerialIO exercise/savitch_10_10_append_error/WriteSpeciesFileAppend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/src/saviich_10_9/Species.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Lesson 05 SerialIO exercise/src/savitch_10_10_append_error/WriteSpeciesFileAppend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/Snow White.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/VOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/alice30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/nbproject/UPDATED.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/nbproject/configs/Run_as_WebStart.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/nbproject/configs/Run_in_Browser.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/nbproject/jfx-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/nbproject/jfx-impl_backup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/ByBefolkning.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/TA1Test/UrbanPopulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/TA1Test/UrbanPopulationStatistics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion1/AbstractCipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion1/AtbashCipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion1/CeasarCipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion1/CipherDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion1/CipherInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion1/FXMLDocument.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion1/FXMLDocumentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion1/VOP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion3/FranskeBjerge.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion3/Mountain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion3/MountainRangeComperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion3/mountainSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion4/NummerPlade.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion6/runningThread/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion6/runningThread/BankAccountThreadRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion6/runningThread/DepositRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion6/runningThread/GreetingRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion6/runningThread/GreetingThreadRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion6/runningThread/WithdrawRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/out/production/VOP/vop/lektion6/runningThread/lektion5/WordCount/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/ByBefolkning.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/TA1Test/UrbanPopulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/TA1Test/UrbanPopulationStatistics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion1/AbstractCipher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion1/AtbashCipher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion1/CeasarCipher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion1/CipherDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion1/CipherInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion1/FXMLDocument.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion1/FXMLDocumentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion1/VOP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion3/FranskeBjerge.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion3/Mountain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion3/MountainRangeComperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion3/mountainSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion4/NummerPlade.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion6/runningThread/BankAccountThreadRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion6/runningThread/DepositRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion6/runningThread/GreetingRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion6/runningThread/GreetingThreadRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion6/runningThread/WithdrawRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/lektion6/runningThread/lektion5/WordCount/WordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/VOP/src/vop/vop/lektion6/runningThread/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/alice30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/enArmetTyveknægt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/fruitspics/fruits0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/fruitspics/fruits1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/fruitspics/fruits2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/fruitspics/fruits3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/fruitspics/fruits4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/fruitspics/fruits5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/fruitspics/fruits6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/fruitspics/fruits7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/fruitspics/fruits8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/fruitspics/fruits9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/out/production/enArmetTyveknægt/META-INF/enArmetTyveknægt.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/out/production/enArmetTyveknægt/sample/Controller$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/out/production/enArmetTyveknægt/sample/Controller$BanditRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/out/production/enArmetTyveknægt/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/out/production/enArmetTyveknægt/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/out/production/enArmetTyveknægt/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/enArmetTyveknægt/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/ByBefolkning.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/META-INF/VOP.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/TA1Test/UrbanPopulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/TA1Test/UrbanPopulationStatistics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/vop/lektion1/AbstractCipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/vop/lektion1/AtbashCipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/vop/lektion1/CeasarCipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/vop/lektion1/CipherDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/vop/lektion1/CipherInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/vop/lektion1/FXMLDocument.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/vop/lektion1/FXMLDocumentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/vop/lektion1/VOP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/vop/lektion3/FranskeBjerge.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/vop/lektion3/Mountain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/vop/lektion3/MountainRangeComperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VOP/out/production/VOP/vop/lektion3/mountainSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alice30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../he.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/Nummerplader.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/lektion4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/out/production/lektion4/opg2_numberplates/NumberPlates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/out/production/lektion4/opg2_numberplates/VehicleType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/out/production/lektion4/opg3_playingcards/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/out/production/lektion4/opg3_playingcards/CardInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/out/production/lektion4/opg3_playingcards/DeckOfCards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/out/production/lektion4/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/out/production/lektion4/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/out/production/lektion4/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/src/opg2_numberplates/NumberPlates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/src/opg2_numberplates/VehicleType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/src/opg3_playingcards/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/src/opg3_playingcards/CardInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/src/opg3_playingcards/DeckOfCards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lektion4/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CircularBuff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PCFixed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Q.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="circularbufferexercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="circularbufferexercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="circularbufferexercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="circularbufferexercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554904084570" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PCFixed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PCFixed" />
+      <module name="circularbufferexercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PCFixed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac078eff-3dd1-40c9-a204-7e58b5696384" name="Default Changelist" comment="" />
+      <created>1554903882793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554903882793</updated>
+      <workItem from="1554903883990" duration="134000" />
+      <workItem from="1555091717938" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="197000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32998884" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Q.java" />
+    <entry file="file://$PROJECT_DIR$/circularbufferexercise/Consumer.java" />
+    <entry file="file://$PROJECT_DIR$/src/CircularBuff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PCFixed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>circularbufferexercise</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<GridPane alignment="center" hgap="10" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" vgap="10" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <AnchorPane prefHeight="300.0" prefWidth="400.0">
+         <children>
+            <ImageView fx:id="imageView1" fitHeight="90.0" fitWidth="90" layoutX="65.0" layoutY="82.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imageView2" fitHeight="90" fitWidth="90" layoutX="155" layoutY="82" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imageView3" fitHeight="90" fitWidth="90" layoutX="245" layoutY="82" pickOnBounds="true" preserveRatio="true" />
+            <Button fx:id="stop1" disable="true" layoutX="84.0" layoutY="207.0" mnemonicParsing="false" onAction="#stop1EventHandler" text="Stop 1" />
+            <Button fx:id="stop2" disable="true" layoutX="174.0" layoutY="207.0" mnemonicParsing="false" onAction="#stop2EventHandler" text="Stop 2" />
+            <Button fx:id="stop3" disable="true" layoutX="264.0" layoutY="207.0" mnemonicParsing="false" onAction="#stop3EventHandler" text="Stop 3" />
+            <Button fx:id="start" layoutX="174.0" layoutY="255.0" mnemonicParsing="false" onAction="#startEventHandler" text="Start" />
+            <Label fx:id="textLabel" layoutX="88.0" layoutY="14.0" prefHeight="34.0" prefWidth="225.0" text="" textAlignment="CENTER" textFill="#d70a0a">
+               <font>
+                  <Font size="15.0" />
+               </font></Label>
+         </children></AnchorPane>
+   </children>
+</GridPane>
